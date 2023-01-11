@@ -1,4 +1,4 @@
-# amazing-events-v2
+# vue-router-basics
 
 ## Project setup
 ```
